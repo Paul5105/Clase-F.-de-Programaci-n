@@ -26,8 +26,8 @@ temperaturas = [
     ]
 ]
 
-# Seleccionar una ciudad en específico
-ciudad_seleccionada = "Ciudad C"  # Cambia esto por la ciudad que desees(A,B,C)
+# Seleccionar una ciudad que queramos en específico
+ciudad_seleccionada = "Ciudad C"  # Aqui puede seleccionar ciudad (A,B,C)
 ciudad_idx = ciudades.index(ciudad_seleccionada)  # Obtener el índice de la ciudad
 
 # Mostrar el promedio de temperaturas para la ciudad seleccionada
